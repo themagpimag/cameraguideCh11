@@ -1,5 +1,5 @@
 # Automatic Number Plate Recognition
-ANPR Tutorial Code for MagPi #78 [https://raspberrypi.org/magpi]()
+ANPR Tutorial Code for the official Raspberry Pi Camera Guide [https://magpi.raspberrypi.org/books/camera-guide]()
 
 ## Requirements
 
